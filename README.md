@@ -1,2 +1,3 @@
-# baremetal-rust-http-server
-Just an http server built with baremetal Rust(Rust without a framework/library)
+# Bare-metal Rust Http Server.
+
+Just an http server built with bare-metal Rust(Rust without a framework/library).
