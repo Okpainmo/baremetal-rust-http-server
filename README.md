@@ -16,6 +16,15 @@ cargo build
 ```shell
 cargo run
 ```
+or with cargo-watch
+
+```shell
+cargo install cargo-watch
+```
+
+```shell
+cargo watch -q -c -w src/ -x "run"
+```
 
 4. Update code-base to suit your use-case.
 
